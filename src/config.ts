@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  website: "https://blog.treelang.me/", // replace this with your deployed domain
+  author: "Treelang",
+  profile: "https://treelang.me/",
+  desc: "Just recording things I want to, whether they matter or not.",
+  title: "Treelang's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/treelang-dev/blog/edit/custom/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
