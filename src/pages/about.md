@@ -3,35 +3,32 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Hi, I'm Treelang 👋
 
-![Astro Paper](public/astropaper-og.jpg)
+欢迎来到我的个人博客。
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+这里是一个用来长期记录和整理内容的地方。不只局限于技术文章，也可能会有学习笔记、项目记录、工具折腾、生活想法、问题解决过程，或者一些暂时说不清类别但值得留下来的内容。
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+我搭建这个博客的原因很简单：想有一个属于自己的记录空间。
 
-## Features
+很多东西如果只放在聊天记录、本地文件或者临时笔记里，时间久了就很难再找到。博客虽然不一定是最高效的记录方式，但它更适合把一些经历、思考和解决过程整理成完整的内容，也方便以后回头查看。
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+这里不会刻意限制主题。只要是我觉得有必要记录的东西，都可能会出现在这里。
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+## Why I Write ✍️
 
-and so much more.
+写博客对我来说，更多是一种整理过程。
 
-## Show your support
+有些问题当时解决了，如果没有留下记录，过一段时间再遇到时，可能又要重新查一遍。把过程写下来，不只是为了展示结果，也是在帮自己梳理思路。
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+有些文章可能只是一个小问题的解决记录，有些文章可能是一个项目的完整总结，也有些内容可能只是阶段性的想法。它们不一定都很复杂，但只要真实、有用、以后还可能用得上，就值得被保存下来。
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+## About Me 🚀
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+我目前对前端开发、网站搭建、自动化部署、个人项目和各种工具折腾比较感兴趣，也在持续学习和尝试新的东西。
 
-Kyay zuu! 🙏🏼
+这个博客会随着我的学习和想法慢慢变化。页面样式、文章内容和功能都会不断调整。如果你看到某些地方还比较简单，那说明它还在建设中。
+
+## Contact 💬
+
+如果你对博客中的内容感兴趣，或者发现文章里有错误，欢迎通过 GitHub 或其他方式与我交流。
